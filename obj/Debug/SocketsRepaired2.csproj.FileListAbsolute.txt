@@ -1,0 +1,5 @@
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired2\SocketsRepaired2\bin\Debug\SocketsRepaired2.exe.config
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired2\SocketsRepaired2\bin\Debug\SocketsRepaired2.exe
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired2\SocketsRepaired2\bin\Debug\SocketsRepaired2.pdb
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired2\SocketsRepaired2\obj\Debug\SocketsRepaired2.exe
+c:\users\comarch\documents\visual studio 2013\Projects\SocketsRepaired2\SocketsRepaired2\obj\Debug\SocketsRepaired2.pdb
